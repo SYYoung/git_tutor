@@ -1,0 +1,2 @@
+This is second file to add in this directory.
+Init date: Jan 5, 2016
